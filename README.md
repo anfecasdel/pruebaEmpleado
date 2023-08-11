@@ -51,13 +51,6 @@ Este es el backend de una aplicación de gestión de empleados desarrollada con 
 - H2 Database
 - RESTful API
 
-## Contribuciones
-
-Si deseas contribuir a este proyecto, ¡estamos abiertos a pull requests!
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 
 
